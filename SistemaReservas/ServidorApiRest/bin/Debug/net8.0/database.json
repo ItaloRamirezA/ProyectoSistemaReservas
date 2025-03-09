@@ -1,0 +1,18 @@
+[
+    {
+        "Id": "c0c4e530-2b32-45fc-9bcf-a30208a88d4e",
+        "Nombre": "Italo Ramirez2",
+        "Email": "italo2222@example.com",
+        "Telefono": "6549222234554",
+        "Citas": [
+            {
+                "Id": "260b7075-1c93-4383-8af8-0d05c86d027e",
+                "Fecha": "2021-02-20T15:00:00",
+                "Servicio": "Corte de pelo Actualizado",
+                "Lugar": "Barberia actualizada",
+                "MetodoPago": "Efectivo Actualizado",
+                "FechaCreacion": "2025-03-06T12:44:08.2696086+01:00"
+            }
+        ]
+    }
+]

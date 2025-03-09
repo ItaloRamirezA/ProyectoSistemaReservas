@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oknbFk6961FSpWCLZDn9bzmqMvEWLvVxojXxlltQbZc=",
+  "Source": "ServidorApiRest",
+  "BasePath": "_content/ServidorApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

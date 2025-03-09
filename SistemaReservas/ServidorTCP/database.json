@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "3932327d-132f-43c1-b4ea-149916be6900",
+    "Nombre": "Italo Ramirez",
+    "Email": "italo@example.com",
+    "Telefono": "6549222234554",
+    "Citas": [
+      {
+        "Id": "a4f64758-2734-4de4-a688-cf35dcca3f5e",
+        "Fecha": "2025-02-20T15:00:00",
+        "Servicio": "Cita M??dica",
+        "Lugar": "Hospital",
+        "MetodoPago": "Tarjeta",
+        "FechaCreacion": "2025-03-06T12:44:08.2696086+01:00"
+      },
+      {
+        "Id": "8b5fdc4c-7b4a-4a57-8b31-709a28e22971",
+        "Fecha": "2026-01-21T18:00:00",
+        "Servicio": "Corte de Pelo",
+        "Lugar": "Barberia",
+        "MetodoPago": "Tarjeta",
+        "FechaCreacion": "2025-03-09T22:40:49.7235375+01:00"
+      }
+    ]
+  },
+  {
+    "Id": "8a1eb985-9710-4cb5-8211-542709cc63be",
+    "Nombre": "Pedro",
+    "Email": "pedro@example.com",
+    "Telefono": "666666435",
+    "Citas": [
+      {
+        "Id": "f77400f9-94df-4d4f-b3d8-1dc79e4f6567",
+        "Fecha": "2026-01-21T18:00:00",
+        "Servicio": "Cita medica",
+        "Lugar": "Hospital",
+        "MetodoPago": "Efectivo",
+        "FechaCreacion": "2025-03-09T22:33:12.9640994+01:00"
+      },
+      {
+        "Id": "1fe41faf-7a84-4b68-98c3-11465d9afa9e",
+        "Fecha": "2026-01-21T18:00:00",
+        "Servicio": "Corte de Pelo",
+        "Lugar": "Barberia",
+        "MetodoPago": "Paypal",
+        "FechaCreacion": "2025-03-09T22:33:29.1613412+01:00"
+      }
+    ]
+  },
+  {
+    "Id": "d96a34f5-5e03-4ed1-beac-4bb1acc84153",
+    "Nombre": "Mikel Zombie Actualizado",
+    "Email": "mikelZombieActualizado@example.com",
+    "Telefono": "666666435",
+    "Citas": []
+  }
+]
